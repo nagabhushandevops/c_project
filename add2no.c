@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {    
+int add2no() {    
 
     int number1, number2, sum;
     

@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {
+int swap2no() {
       double first, second, temp;
       printf("Enter first number: ");
       scanf("%lf", &first);

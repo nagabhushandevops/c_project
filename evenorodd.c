@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int evenorodd() {
     int num;
     printf("Enter an integer: ");
     scanf("%d", &num);

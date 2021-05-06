@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int a,b;
-int main()
+int biggestof2()
 {
     printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
     printf("\n\nEnter the two values to find the greatest and smallest number: \n");
